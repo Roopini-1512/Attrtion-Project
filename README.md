@@ -1,2 +1,2 @@
-# Attrtion-Project
+# Attrition-Project
 E2E ML Project
